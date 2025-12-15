@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">JRPG Enthusiast, '03.</p>
+<p align="left">JRPG and Soulsborne Enthusiast, '03.</p>
 
 ###
 
@@ -33,12 +33,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
 <br clear="both">
