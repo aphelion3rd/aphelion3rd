@@ -38,13 +38,6 @@
 
 <br clear="both">
 
-<h2 align="left">More Information 🔖</h2>
-
-###
-<p align="left">I love <b>visual novel and english classics,</b> feel free to talk to me about it</p>
-
-<br clear="both">
-
 <img align="left" height="555" src="https://i.pinimg.com/originals/0a/45/fa/0a45fa9e4139dc537ebfb705156185df.gif"  />
 
 ###
